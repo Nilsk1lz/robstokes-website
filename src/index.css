@@ -1,0 +1,77 @@
+body {
+    margin: 0;
+    /* font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif; */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* background-color: #2E2E35 !important; */
+    /* color: '#DADADA'; */
+    /* height: 100%; */
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+h1 {
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 800 !important;
+    font-size: 52px !important;
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif !important;
+    font-weight: 800 !important;
+    font-size: 32px !important;
+}
+
+h4 {
+    font-family: 'Open Sans', sans-serif !important;
+    color: #e3aa49;
+    font-weight: 800 !important;
+    font-size: 18px !important;
+}
+
+p {
+    font-size: 16px;
+}
+
+.card-title {
+    font-family: 'Open Sans', sans-serif !important;
+    color: #e3aa49;
+    text-align: left;
+    margin: 20px;
+}
+
+.card-subtitle {
+    font-family: 'Open Sans', sans-serif !important;
+    color: #e3aa49;
+    text-align: left;
+    margin: 20px;
+    font-weight: 900;
+    font-size: x-small;
+}
+
+.card-text {
+    text-align: left;
+    margin: 20px;
+}
+
+.read-more {
+    font-family: 'Open Sans', sans-serif !important;
+    color: #e3aa49 !important;
+    text-decoration: none !important;
+    text-align: left;
+    float: left;
+    margin-left: 8px;
+    font-weight: 700 !important;
+}
+
+.parallax-banner-layer-0 {
+    opacity: 0.4;
+}
+
+.parallax-banner-layer-0 {
+    opacity: 1 !important;
+}
