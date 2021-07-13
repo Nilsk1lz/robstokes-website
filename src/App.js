@@ -2,7 +2,9 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Navbar from "./Navigation";
 import Projects from "./Pages/Projects";
 import Project from "./Pages/Projects/Project";
+import Blog from "./Pages/Blog";
 import Home from "./Pages/Home";
+import Contact from "./Pages/Contact";
 import "./custom.scss";
 import "./App.css";
 import { ParallaxProvider } from "react-scroll-parallax";
@@ -20,6 +22,12 @@ function App() {
             </Route>
             <Route path="/projects">
               <Projects />
+            </Route>
+            <Route path="/blog">
+              <Blog />
+            </Route>
+            <Route path="/contact">
+              <Contact />
             </Route>
             <Route path="/">
               <Home />

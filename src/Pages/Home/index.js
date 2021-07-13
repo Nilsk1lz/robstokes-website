@@ -64,6 +64,15 @@ function Welcome() {
             My day job is software development, but my spare time is 3D
             Printing, electornic building, home automating geekness.
           </p>
+          <p>Available for moonlighting gigs, and website building.</p>
+          <Link
+            className={"read-more"}
+            color="link"
+            style={{ marginLeft: 0 }}
+            to="/contact"
+          >
+            GET IN TOUCH!
+          </Link>
         </div>
       </Col>
     </Row>
