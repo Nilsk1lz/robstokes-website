@@ -1,5 +1,6 @@
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Navbar from "./Navigation";
+import Footer from "./Footer";
 import Projects from "./Pages/Projects";
 import Project from "./Pages/Projects/Project";
 import Blog from "./Pages/Blog";
@@ -34,6 +35,7 @@ function App() {
             </Route>
           </Switch>
         </Router>
+        <Footer />
       </div>
     </ParallaxProvider>
   );
