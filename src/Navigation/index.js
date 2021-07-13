@@ -34,13 +34,13 @@ const Example = (props) => {
               <NavLink href="/">Home</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/projects/">Projects</NavLink>
+              <NavLink href="/projects">Projects</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/blog/">Blog</NavLink>
+              <NavLink href="/blog">Blog</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/contact/">Contact</NavLink>
+              <NavLink href="/contact">Contact</NavLink>
             </NavItem>
           </Nav>
         </Collapse>
