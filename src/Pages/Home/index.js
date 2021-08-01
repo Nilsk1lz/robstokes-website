@@ -65,7 +65,7 @@ function Welcome() {
               </h2>
               <p style={{ marginTop: "10px", textAlign: "left" }}>
                 My day job is software development, but my spare time is 3D
-                Printing, electornic building, home automating geekness.
+                Printing, electronic building, home automating geekness.
               </p>
               <p style={{ textAlign: "left" }}>
                 Available for moonlighting gigs, and website building.
