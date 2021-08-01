@@ -38,7 +38,7 @@ export default function Contact() {
         </Col>
       </Row>
       <Row>
-        <Col xs={10} md={10}>
+        <Col xs={12} md={12}>
           <Row>
             <Col sm={12} xl={4}>
               <div

@@ -1,37 +1,49 @@
 [
-    {
-        "title": "Split Flap Display",
-        "id": "split-flap",
-        "category": "Electronics",
-        "short_description": "Split flap displays are most  commonly seen in airports and train stations. They have a wonderful mechanical quality. This project was to try and create a low cost display using 3D printed parts and basic electronics.\nThis project isn’t yet complete so let me know if you can help out!",
-        "post": "Split flap displays are most  commonly seen in airports and train stations. They have a wonderful mechanical quality. This project was to try and create a low cost display using 3D printed parts and basic electronics.\nThis project isn’t yet complete so let me know if you can help out!"
-    },
-    {
-        "title": "Tiny Printer",
-        "id": "tiny-printer",
-        "category": "Electronics",
-        "short_description": "Split flap displays are most  commonly seen in airports and train stations. They have a wonderful mechanical quality. This project was to try and create a low cost display using 3D printed parts and basic electronics.\nThis project isn’t yet complete so let me know if you can help out!",
-        "post": "In 2012 a company called BERG introduced a facinating little device called the Little Printer. It was a cute little printer that you could control with your phone and print off a variety of fun gimmicky things like sudoku, news headlines, weather reports etc.\nThe interesting thing was that this was basically just a POS receipt printer (thermal printer) that was repurposed and made into something cool and geeky.\nUnfortunately BERG went under a couple of years later and the cloud service that powered the device went with it. People were then left with useless little printers that didn’t do anything.\nI really wanted one at the time, but $259 for something that I knew was a $50 piece of hardware (at most) seemed crazy, even for me.\nFast forward…\nI’m writing this blog post mainly as a way of documenting my steps to producing something comparable to the Little Printer. My hope is that I can produce some software that can be used to power some potentially modified software so that I can bring the Tiny Printer to the masses. \nI thought it might be interesting to write down the iterations and ideas that I have along the way, and to share the stumbling blocks and possible solutions as I go, in case anyone wants to help out with this project, or is just interested in the process.\nWish me luck!"
-    },
-    {
-        "title": "Touch Screen Mirror",
-        "id": "touch-screen-mirror",
-        "category": "Electronics",
-        "short_description": "I’ve seen a few examples of smart mirrors over the past year or so. \nI really wanted a way of viewing information from my home (temperature, power usage etc), and also the ability to control a few things without having to use Alexa or automations - such as setting the alarm.",
-        "post": "I’ve seen a few examples of smart mirrors over the past year or so. \nI really wanted a way of viewing information from my home (temperature, power usage etc), and also the ability to control a few things without having to use Alexa or automations - such as setting the alarm."
-    },
-    {
-        "title": "3D Printing R2D2",
-        "id": "r2d2",
-        "category": "3D Printing",
-        "short_description": "A long time ago in a galaxy far, far away...",
-        "post": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    },
-    {
-        "title": "Room Presence Sensor",
-        "id": "door-presence",
-        "category": "Home Automation",
-        "short_description": "A Small presence sensor that I use to count the number of people entering and leaving a room.",
-        "post": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-    }
+  {
+    "title": "Split Flap Display",
+    "id": "split-flap",
+    "category": "Electronics",
+    "short_description": "This project was to try and create a low cost display using 3D printed parts and basic electronics.\nThis project isn’t yet complete so let me know if you can help out!",
+    "post": "Split flap displays are most  commonly seen in airports and train stations. They have a wonderful mechanical quality. This project was to try and create a low cost display using 3D printed parts and basic electronics.\nThis project isn’t yet complete so let me know if you can help out!"
+  },
+  {
+    "title": "Tiny Printer",
+    "id": "tiny-printer",
+    "category": "Electronics",
+    "short_description": "My Little Printer type project",
+    "post": "In 2012 a company called BERG introduced a facinating little device called the Little Printer. It was a cute little printer that you could control with your phone and print off a variety of fun gimmicky things like sudoku, news headlines, weather reports etc.\nThe interesting thing was that this was basically just a POS receipt printer (thermal printer) that was repurposed and made into something cool and geeky.\nUnfortunately BERG went under a couple of years later and the cloud service that powered the device went with it. People were then left with useless little printers that didn’t do anything.\nI really wanted one at the time, but $259 for something that I knew was a $50 piece of hardware (at most) seemed crazy, even for me.\nFast forward…\nI’m writing this blog post mainly as a way of documenting my steps to producing something comparable to the Little Printer. My hope is that I can produce some software that can be used to power some potentially modified software so that I can bring the Tiny Printer to the masses. \nI thought it might be interesting to write down the iterations and ideas that I have along the way, and to share the stumbling blocks and possible solutions as I go, in case anyone wants to help out with this project, or is just interested in the process.\nWish me luck!"
+  },
+  {
+    "title": "Touch Screen Mirror",
+    "id": "touch-screen-mirror",
+    "category": "Electronics",
+    "short_description": "I’ve seen a few examples of smart mirrors over the past year or so. \nI really wanted a way of viewing information from my home (temperature, power usage etc)",
+    "post": "I’ve seen a few examples of smart mirrors over the past year or so. \nI really wanted a way of viewing information from my home (temperature, power usage etc), and also the ability to control a few things without having to use Alexa or automations - such as setting the alarm."
+  },
+  {
+    "title": "3D Printing R2D2",
+    "id": "r2d2",
+    "category": "3D Printing",
+    "short_description": "Is it possible to 3D print a lifesize R2D2, with motors, lights and lots of cool features?\nLet's find out! ",
+    "post": [
+      {
+        "post": "Some of you may have seen my 3D printed Mandalorian Rifle; it was really good fun to build and was one of the first model's i've printed that actually looks realistic. 3D prints need a lot of post processing in order to get them looking good.\nSo now it's time for a new challenge. I came across the Astromech forum, where people have been building lifesize R2D2's and other droids. I figure it's worth a try!"
+      },
+      {
+        "subheader": "Part 1 - Printing",
+        "post": "I've got an Ender 3 v2 printer, which is amazing. It's an entry-level printer, but the prints I get from it are fab. It's print bed is only 220x220mm though, so R2 needs to be printed in small sections and then glued together. I'm printing him in PLA+, which is supposed to be both stronger, and more flexible than standard PLA. So far, the results are good. I get good ahesion to the bed and minimal warping. \nPrinting the Dome took the best part of two weeks, printing small sections at a time. Once it was all printed I glued the outer dome using two part epoxy.\n Then it's time to sand..."
+      },
+      {
+        "subheader": "Part 1 - Sanding, priming, sanding and filling and sanding",
+        "post": "I've got an Ender 3 v2 printer, which is amazing. It's an entry-level printer, but the prints I get from it are fab. It's print bed is only 220x220mm though, so R2 needs to be printed in small sections and then glued together. I'm printing him in PLA+, which is supposed to be both stronger, and more flexible than standard PLA. So far, the results are good. I get good ahesion to the bed and minimal warping. \nPrinting the Dome took the best part of two weeks, printing small sections at a time. Once it was all printed I glued the outer dome using two part epoxy.\n Then it's time to sand..."
+      }
+    ]
+  },
+  {
+    "title": "Room Presence Sensor",
+    "id": "door-presence",
+    "category": "Home Automation",
+    "short_description": "A Small presence sensor that I use to count the number of people entering and leaving a room.",
+    "post": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  }
 ]
